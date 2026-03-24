@@ -2,7 +2,8 @@
 Small side project to controll WS2812B-based ARGB diodes using FastLED.h
 
 ### Making it run
-Dudes, just ping me over the discord @v-isaac
+Dudes, just ping me over the discord @v.isaac ID:505859320257183751
+
 I've spent 30 minutes making docs and github failed on me :c
 
 Or just read the code, it isn't that hard
