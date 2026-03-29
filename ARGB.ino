@@ -284,6 +284,7 @@ void loop() {
       C.ColHSV.v += .10;
       if(C.ColHSV.v > 1){
         C.ColHSV.v = 1;
+        valUp = 0;
       }
     }
 
